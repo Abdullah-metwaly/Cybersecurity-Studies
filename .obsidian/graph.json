@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Password Attacks",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Attacking Common Services",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 2.396875,
+  "lineSizeMultiplier": 1.9375,
+  "collapse-forces": true,
+  "centerStrength": 0.364583333333333,
+  "repelStrength": 11.1458333333333,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.13168724279835536,
+  "close": false
+}
