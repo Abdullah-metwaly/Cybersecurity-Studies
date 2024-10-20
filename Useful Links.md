@@ -1,0 +1,8 @@
+- https://dmarcly.com/blog/how-to-implement-dmarc-dkim-spf-to-stop-email-spoofing-phishing-the-definitive-guide#what-is-dmarc
+- https://www.cobaltstrike.com/blog/cobalt-strike-3-11-the-snake-that-eats-its-tail
+- https://www.mandiant.com/resources/blog/bring-your-own-land-novel-red-teaming-technique
+- https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
+- https://learn.microsoft.com/en-us/windows/win32/amsi/how-amsi-helps
+- https://techofide.com/blogs/what-is-smurf-attack-what-is-the-denial-of-service-attack-practical-ddos-attack-step-by-step-guide/
+- https://cve.mitre.org/index.html
+- https://www.rapid7.com/blog/post/2015/03/25/stageless-meterpreter-payloads/

@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6c44a44243367a07",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea7eb345ba108b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048b5f74607d29b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Architecture/Architecture Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc0149f8d61bf118",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07916b922bb79429",
+    "type": "split",
+    "children": [
+      {
+        "id": "64ea55e99d723c74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94878a705ab2142b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "396accd2387f9932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fb32c41ff45004c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8beb256d2689df78",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d64d40d6a87f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffcb34ab25319854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Architecture/Architecture Process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c9fca975c633930",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Architecture/Architecture Process.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47df5bc9c72f7f4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e97d6afb0e1938b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Architecture/Architecture Process.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc0149f8d61bf118",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Cloud Architecture/Architecture Process.md",
+    "Untitled",
+    "Cloud Architecture"
+  ]
+}
