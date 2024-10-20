@@ -4,7 +4,7 @@ Parent Process: System Idle Process (0)
 
 Technically this is correct. You may notice that Process Hacker confirms this is legit (Verified) Microsoft Windows. 
 
-What is unusual behaviour for this process?
+What is unusual behavior for this process?
 
 - A parent process (aside from System Idle Process (0))
 - Multiple instances of System. (Should only be one instance) 
