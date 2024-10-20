@@ -1,2 +1,2 @@
-# pentest-commands
-Penteration testing notes from my personal studies 
+# Personal Notes
+Personal notes that includes my studies from multiple source TryHackMe, HackTheBox academy and so on. 
