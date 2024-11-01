@@ -41,7 +41,6 @@ This project is not licensed under LICENSE (free and paid resources).
 Have questions or want to connect? Feel free to reach out:
 
     GitHub: @Abdullah-metwaly
-    LinkedIn: (Add your LinkedIn link if you'd like)
 
 Happy learning and stay secure!
 
