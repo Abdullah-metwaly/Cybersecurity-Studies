@@ -34,7 +34,7 @@ Contributions, suggestions, and feedback are welcome! If you have additional con
 
 📜 License
 
-This project is not licensed under LICENSE (free and paid resources).
+This project is not licensed under any LICENSE (free and paid resources).
 
 📬 Connect with Me
 
