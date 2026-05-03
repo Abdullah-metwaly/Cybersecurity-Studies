@@ -43,5 +43,3 @@ Have questions or want to connect? Feel free to reach out:
     GitHub: @Abdullah-metwaly
 
 Happy learning and stay secure!
-
-Feel free to modify or add any specific details you'd like!
